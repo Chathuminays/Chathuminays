@@ -11,15 +11,19 @@
 ### A Passionate Full-Stack Developer from Sri Lanka
 
 </div>
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center; height: 100vh;">
-<div>
+<div style="display: flex; justify-content: space-around; align-items: center; text-align: center; height: 100vh;">
+
+<div style="flex: 1;">
 - 🌱 I’m currently learning NextJs and TypeScript
 - 💬 Ask me about Full-Stack Development and Tech-Related Stuff
 - 📫 How to reach me: chathumina.dev@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I think I am Funny
 </div>
-<div>
-![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966](https://github.com/user-attachments/assets/dbaecacb-17bb-469a-824a-5935ce723724)
+
+<div style="flex: 1;">
+<img src="https://github.com/user-attachments/assets/dbaecacb-17bb-469a-824a-5935ce723724" alt="68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 </div>
+
 </div>
+
