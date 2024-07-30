@@ -2,19 +2,19 @@
 
 
 
-### Hi there 👋
+<div align="center">
 
-<!--
-**Chathuminays/Chathuminays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi 👋, I'm Chathumina-Kumaranayake
 
-Here are some ideas to get you started:
+<hr style="width: 100%;">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# A Passionate Full-Stack Developer from Sri Lanka
+
+</div>
+
+- 🌱 I’m currently learning NextJs and TypeScript
+- 💬 Ask me about Full-Stack Development and Tech-Related Stuff
+- 📫 How to reach me: chathumina.dev@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I think I am Funny
+
