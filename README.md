@@ -65,8 +65,9 @@
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chathuminays&show_icons=true&locale=en&layout=compact" alt="chathuminays" /></p>
+<p>&nbsp;</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chathuminays&show_icons=true&locale=en" alt="chathuminays" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chathuminays&" alt="chathuminays" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chathuminays&show_icons=true&locale=en&layout=compact" alt="chathuminays" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chathuminays&" alt="chathuminays" height="150"/>
+</div>
